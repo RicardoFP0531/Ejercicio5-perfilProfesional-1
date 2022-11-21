@@ -1,0 +1,65 @@
+html, body {
+    height: 100%;
+    margin: 0;
+
+    font-family: 'Mulish', sans-serif;
+}
+
+.container {
+    /* display: flex; */
+}
+
+.info-container {
+        /* background-color: steelblue; */
+    display: flex;
+    text-align: center;
+    padding: 0px 32px 0 32px;
+
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+}
+
+.info-container h1 {
+    margin: 0;
+    font-size: 44px;
+    margin-top: 30px;
+    color: #515369;
+    font-weight: bolder;
+}
+
+.info-container p {
+    margin: 0;
+    margin-bottom: 20px;
+    color: #515369;
+}
+
+.image {
+    height: 280px;
+    width: 100%;
+
+}
+
+.button-info {
+    height: 40px;
+    width: 180px;
+    color: white;
+    font-size: medium;
+    font-weight: 700;
+    border: none;
+
+    background-color: #46C7B0;
+    border-radius: 30px;
+}
+
+.iconos {
+    margin-top: 20px;
+    padding-bottom: 50px;
+    display: flex;
+    /* background-color: palevioletred; */
+    gap: 30px;
+
+}
+
+/* MEDIA QUERY PARA TABLETAS  */
+
