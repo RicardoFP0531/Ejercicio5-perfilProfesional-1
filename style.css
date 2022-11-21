@@ -5,12 +5,8 @@ html, body {
     font-family: 'Mulish', sans-serif;
 }
 
-.container {
-    /* display: flex; */
-}
 
 .info-container {
-        /* background-color: steelblue; */
     display: flex;
     text-align: center;
     padding: 0px 32px 0 32px;
@@ -56,10 +52,11 @@ html, body {
     margin-top: 20px;
     padding-bottom: 50px;
     display: flex;
-    /* background-color: palevioletred; */
     gap: 30px;
 
 }
+
+
 
 /* MEDIA QUERY PARA TABLETAS  */
 
